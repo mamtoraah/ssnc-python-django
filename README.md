@@ -37,10 +37,11 @@ Access Swagger at `http://127.0.0.1:8000/swagger/`.
 
 **Response**:
 
-- **200 Created**: Successfully created a new data entry.
-- **400 Bad Request**: Bad Request.
+- **200 Created**: Successfully processed the data.
+- **400 Bad Request**: Bad Request with custom message detailing the error.
 
 **Example**:
+git
 
 ```bash
 curl --location 'http://127.0.0.1:8000/api/sort-numbers/' \
