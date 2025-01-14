@@ -9,7 +9,7 @@
 
 ## Command to Run Server
 
-5.  Start the server: `python manage.py runserver`
+- Start the server: `python manage.py runserver`
 
 ## Testing
 
