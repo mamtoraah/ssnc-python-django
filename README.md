@@ -6,6 +6,9 @@
 2.  Install dependencies: `pip install -r requirements.txt`
 3.  Go to transformation_project: `cd transformation_project`
 4.  Run migrations: `python manage.py makemigrations` and `python manage.py migrate`
+
+## Command to Run Server
+
 5.  Start the server: `python manage.py runserver`
 
 ## Testing
