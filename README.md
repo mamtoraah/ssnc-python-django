@@ -4,8 +4,9 @@
 
 1.  Clone the repository.
 2.  Install dependencies: `pip install -r requirements.txt`
-3.  Run migrations: `python manage.py makemigrations` and `python manage.py migrate`
-4.  Start the server: `python manage.py runserver`
+3.  Go to transformation_project: `cd transformation_project`
+4.  Run migrations: `python manage.py makemigrations` and `python manage.py migrate`
+5.  Start the server: `python manage.py runserver`
 
 ## Testing
 
